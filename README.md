@@ -12,8 +12,6 @@
 
 - 🔭 I’m currently working on **sales page**
 
-- 🌱 I’m currently learning **React, Node.Js, Vue.Js**
-
 - 💬 Ask me about **C#, Asp.Net core, MVC, Api, html/css/scss/bootstrap, javascript/jquery, etc**
 
 - 📫 How to reach me **kamraneze@code.edu.az**
