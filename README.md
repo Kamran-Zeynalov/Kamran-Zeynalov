@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **sales page**
 
-- 💬 Ask me about **C#, Asp.Net core, MVC, Api, html/css/scss/bootstrap, javascript/jquery, etc**
+- 💬 Ask me about **C#, Asp.Net core, MVC, RESTful API, html/css/scss/bootstrap, javascript/jquery, React, etc**
 
 - 📫 How to reach me **kzeynalov@outlook.com**
 
