@@ -29,9 +29,9 @@
 
 <div style="display: flex; justify-content: space-between;">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamran-zeynalov&show_icons=true&locale=en" alt="kamran-zeynalov" /></p>
+<p>&nbsp;<img style="display: inline;" align="center" src="https://github-readme-stats.vercel.app/api?username=kamran-zeynalov&show_icons=true&locale=en" alt="kamran-zeynalov" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamran-zeynalov&" alt="kamran-zeynalov" /></p>
+<p><img style="display: inline;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamran-zeynalov&" alt="kamran-zeynalov" /></p>
 
   
 </div>
