@@ -4,7 +4,6 @@
 
 <h1 align="center">Hi 👋, I'm Kamran Zeynalov</h1>
 <h3 align="center">A passionate full-stack developer from Azerbaijan</h3>
-<img align="right" alt="Coding" width="400px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZwc2Zua3czY2xuMzN5bWRpc2t3dWIwN2VhOXBpdTUwdWJwNjV3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamran-zeynalov&label=Profile%20views&color=0e75b6&style=flat" alt="kamran-zeynalov" /> </p>
 
