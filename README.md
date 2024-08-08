@@ -9,7 +9,7 @@
 </h5>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="mailto:kzeynalov@outlook.com" target="_blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Microsoft_Office_Outlook_Logo_512px.png" alt="Mail" height="40" width="40" /></a>
+  <a href="mailto:kzeynalov@outlook.com" target="_blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Microsoft_Office_Outlook_Logo_512px.png" alt="Mail" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kamran-zeynalov-798b46248/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kamran-zeynalov-798b46248/" height="30" width="40" /></a>
 <a href="https://instagram.com/zynlv.k" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zynlv.k" height="30" width="40" /></a>
 </p>
