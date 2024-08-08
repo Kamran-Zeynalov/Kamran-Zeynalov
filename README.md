@@ -2,11 +2,10 @@
 <img align="right" alt="Coding" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 </div>
 
-<h1 align="center">Hi 👋, I'm Kamran Zeynalov</h1>
+<h1 align="center">Hi 👋, I'm Kamran</h1>
 <h3 align="center">A passionate full-stack developer from Azerbaijan</h3>
-
-<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<p align="center">
+  
 - 🔭 I’m currently working on **sales page**
 
 - 💬 Ask me about **C#, Asp.Net core, MVC, RESTful API, html/css/scss/bootstrap, javascript/jquery, React, etc**
@@ -15,6 +14,7 @@
 
 - ⚡ Fun fact **I am funny**
 
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kamran-zeynalov-798b46248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kamran-zeynalov-798b46248/" height="30" width="40" /></a>
