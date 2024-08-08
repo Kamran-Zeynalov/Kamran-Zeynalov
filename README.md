@@ -5,18 +5,11 @@
 <h1 align="center">Hi 👋, I'm Kamran</h1>
 <h3 align="center">A passionate full-stack developer from Azerbaijan</h3>
 <h5 align="center">
-  
-- 🔭 I’m currently working on **sales page**
-
-- 💬 Ask me about **C#, Asp.Net core, MVC, RESTful API, html/css/scss/bootstrap, javascript/jquery, React, etc**
-
-- 📫 How to reach me **kzeynalov@outlook.com**
-
-- ⚡ Fun fact **I am funny**
-
+- 💬 Ask me about **C#, Asp.Net core, MVC, RESTful API, React, etc**
 </h5>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="mailto:kzeynalov@outlook.com" target="blank"><img align="center" src="https://i.pinimg.com/736x/8f/c3/7b/8fc37b74b608a622588fbaa361485f32.jpg" alt="Mail" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kamran-zeynalov-798b46248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kamran-zeynalov-798b46248/" height="30" width="40" /></a>
 <a href="https://instagram.com/zynlv.k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zynlv.k" height="30" width="40" /></a>
 </p>
