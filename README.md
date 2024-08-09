@@ -1,5 +1,6 @@
 <div style="width:100%">
 <img align="right" alt="Coding" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+<img align="right" alt="Coding" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp">
 </div>
 
 <h1 align="center">Hi 👋, I'm Kamran</h1>
