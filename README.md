@@ -1,5 +1,5 @@
 <div style="width:100%">
-    <img style="width:100%" align="right" alt="Coding" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+    <img style="width:100%" align="right" alt="Coding" src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*JtC1CS6-OT218_QzRlLXFw.gif">
   </p>
 </div>
 
