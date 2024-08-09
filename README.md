@@ -1,8 +1,7 @@
-<div style="width:100%">
+<div style="display:block; width:100%">
     <img style="width:80%; margin:0 auto" align="right" alt="Coding" src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*JtC1CS6-OT218_QzRlLXFw.gif">
   </p>
 </div>
-
 <h1 align="center">Hi 👋, I'm Kamran</h1>
 <h3 align="center">A passionate full-stack developer from Azerbaijan</h3>
 <h5 align="center">
