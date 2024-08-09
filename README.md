@@ -1,5 +1,5 @@
 <div style="display:block; width:100%">
-    <img style="width:99%; margin:0 auto" align="right" alt="Coding" src="[https://cdn-images-1.medium.com/v2/resize:fit:1200/1*JtC1CS6-OT218_QzRlLXFw.gif](https://learn.microsoft.com/en-us/visualstudio/get-started/csharp/media/get-started-data-tip.gif?view=vs-2017&viewFallbackFrom=vs-2022)">
+    <img style="width:99%; margin:0 auto" align="right" alt="Coding" src="https://learn.microsoft.com/en-us/visualstudio/get-started/csharp/media/get-started-data-tip.gif?view=vs-2017&viewFallbackFrom=vs-2022">
   </p>
 </div>
 <h1 align="center">Hi 👋, I'm Kamran</h1>
